@@ -1,0 +1,11 @@
+{% extends "common/page_base.html" %}  {# common/page_base.html extends layout.html #}
+
+{% block content %}
+    <h2>{%trans%}Пользовательская страница{%endtrans%}</h2>
+
+    <from class="form" method="post">
+        <p><input type="text" class="form-control" name="username" placeholder="Опишите вашу проблемму"></p>
+        <p><input type="submit" class="btn btn-success" value="Войти"></p>
+    </from>
+
+{% endblock %}
