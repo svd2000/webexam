@@ -1,0 +1,9 @@
+Сидякин Василий Денисович 181-352
+
+http://webdev-exam-2019-2-qwertg.std-866.ist.mospolytech.ru/
+
+https://github.com/svd2000/webexam
+
+
+Юзер: user@example.com Пароль: Password1
+ Админ: admin@example.com Пароль: Password1
